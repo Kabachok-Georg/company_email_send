@@ -5,8 +5,10 @@ from email.mime.text import MIMEText
 from dotenv import load_dotenv
 import os
 
+
 # Загрузить переменные окружения из файла .env
 load_dotenv()
+
 
 # Извлечь данные из переменных окружения
 SMTP_SERVER = os.getenv('SMTP_SERVER')

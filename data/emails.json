@@ -1,11 +1,11 @@
 [
     {
-        "email": "example1@domain.com",
-        "subject": "Добро пожаловать в нашу компанию!",
-        "name": "Иван Иванов",
-        "date": "01.10.2024",
-        "time": "10:00",
-        "event_link": "https://example.com/webinar1"
+        "email": "georgdan28@mail.ru",
+        "subject": "Добро пожаловать в школу программирования Maestro7IT",
+        "name": "Данилов Георгий",
+        "date": "15.12.2024",
+        "time": "13:00",
+        "event_link": "https://meet.google.com/gmv-wwha-azn"
     },
     {
         "email": "example2@domain.com",
